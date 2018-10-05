@@ -1,0 +1,62 @@
+h1 {
+    color: white;
+    font-family: Futura;
+    font-weight: bold;
+    font-style: italic;
+    text-align:  center;
+    font-size: 100px;
+    border-style: solid;
+  }
+h2 {
+  color: white;
+  font-family: sans-serif;
+  text-align:  center;
+  font-size: 100px;
+  border-style: solid;
+}
+body {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
+}
+
+.sup {
+  color: #fff;
+  background: red;
+  padding: 7px 7px;
+  text-decoration: none;
+  width : 80px;
+  margin : auto;
+}
+a {
+font-size: 40px;
+width:100%
+}
+img{
+  margin:150;
+  width :50%;
+  height:500px;
+  border-style: solid;
+  }
+
+p {
+  color:white;
+  font: 75px
+}
+h3 {
+  color:white;
+}
+h6{
+  color:white
+}
+ol{
+  text-align:left;
+  color:white;
+  font-size: 40px
+  text-align:inherit;
+}
+li{
+  text-align: left;
+  color:white
+}
